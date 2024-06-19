@@ -32,17 +32,3 @@ Welcome to my GitHub profile! I am a data engineer with a background in web deve
 
 - **LinkedIn**: https://www.linkedin.com/in/dominik-jedlinski/
 
----
-
-<!--
-🌟 **Pinned Repositories**
-
-- **[Data Pipeline Project](#)**: An end-to-end data pipeline using Apache Spark and Airflow.
-- **[Web Dashboard](#)**: An interactive data visualization dashboard built with React and D3.js.
-- **[FEA Simulation Scripts](#)**: A collection of scripts for performing finite element analysis using MATLAB and Python.
-
----
-
-Thank you for visiting my profile! Explore my repositories and let’s create something amazing together!
-
--->
